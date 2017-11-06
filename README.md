@@ -11,3 +11,6 @@ class Klass; end
 ```
 
 [example](./example/example.md)
+[example](/example/example.md)
+
+![a](./a.png)
