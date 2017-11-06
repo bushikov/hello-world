@@ -9,3 +9,5 @@ abcde
 puts PPPPP
 class Klass; end
 ```
+
+(example)[./example/example.md]
