@@ -10,4 +10,4 @@ puts PPPPP
 class Klass; end
 ```
 
-(example)[./example/example.md]
+(example)[/example/example.md]
